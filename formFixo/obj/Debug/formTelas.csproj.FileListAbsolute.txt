@@ -1,0 +1,14 @@
+C:\Users\GARYSANCHEZ\source\repos\formFixo\formFixo\bin\Debug\formFixo.exe
+C:\Users\GARYSANCHEZ\source\repos\formFixo\formFixo\bin\Debug\formFixo.pdb
+C:\Users\GARYSANCHEZ\source\repos\formFixo\formFixo\obj\Debug\formFixo.Properties.Resources.resources
+C:\Users\GARYSANCHEZ\source\repos\formFixo\formFixo\obj\Debug\formTelas.csproj.GenerateResource.Cache
+C:\Users\GARYSANCHEZ\source\repos\formFixo\formFixo\obj\Debug\formTelas.csproj.CoreCompileInputs.cache
+C:\Users\GARYSANCHEZ\source\repos\formFixo\formFixo\obj\Debug\formFixo.exe
+C:\Users\GARYSANCHEZ\source\repos\formFixo\formFixo\obj\Debug\formFixo.pdb
+C:\Users\GARYSANCHEZ\source\repos\formFixo\formFixo\obj\Debug\formFixo.formControle.resources
+C:\Users\GARYSANCHEZ\source\repos\formFixo\formFixo\obj\Debug\formFixo.formLogin.resources
+C:\Users\GARYSANCHEZ\source\repos\formFixo\formFixo\obj\Debug\formFixo.formNovo.resources
+C:\Users\GARYSANCHEZ\source\repos\formFixo\formFixo\obj\Debug\formFixo.formPesquisar.resources
+C:\Users\GARYSANCHEZ\source\repos\formFixo\formFixo\obj\Debug\formFixo.formRelatorio.resources
+C:\Users\GARYSANCHEZ\source\repos\formFixo\formFixo\obj\Debug\formFixo.formPrincipal.resources
+C:\Users\GARYSANCHEZ\source\repos\formFixo\formFixo\obj\Debug\formTelas.csprojResolveAssemblyReference.cache
